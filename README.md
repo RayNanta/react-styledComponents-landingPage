@@ -6,6 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install --save styled-components`
+In order to add styled componetns library
+
+### `npm install react-icons --save`
+In order to add react icons library
+
+### `npm install react-router-dom@6`
+In order to add react router dom library
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
